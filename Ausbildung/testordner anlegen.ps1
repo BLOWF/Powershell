@@ -1,0 +1,1 @@
+﻿New-Item -Path "C:\Users\daniel.eichberger\Documents\.Eigene Dokumente\Power Shell\testordner" -ItemType directory
